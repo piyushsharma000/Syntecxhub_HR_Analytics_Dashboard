@@ -58,4 +58,4 @@ Project Workflow
 ---
 Dashboard
 
-![image()
+![image alt](https://github.com/piyushsharma000/Syntecxhub_HR_Analytics_Dashboard/blob/main/HR%20Analytics%20Dashboard.png?raw=true)
